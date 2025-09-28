@@ -1,14 +1,15 @@
 # Redesign-Challenge-2025
 Interactive Redesign of 31P-MRS Spectra Visualization Using Jupyter Notebook in Google Colab for Enhanced Neurometabolic Interpretation. 
 
-Supplementary Materials:
+#Supplementary Materials:
 They  are available on GitHub at https://github.com/ortil/Redesign-Challenge-2025, released under the CC BY 4.0 License. 
 
 They contain:
 
 (1) The preprocessed dataset (.CSV files) available on the link:  https://git.app.uib.no/biomedvis2025/31p-mrs-redesign/-/tree/main/data?ref_type=heads  provided by the Bio+MedVis Challenge @ IEEE 2025 organizers through  the page http://biovis.net/2025/biovisChallenges_vis/.
 
-(2) The figures and tables file contain 
+(2) The figures and tables file contains
+
 i.	The original plot (Figure 1) by Fear et al[1]
 ii.	The proposed visualization (Figure 2) and the associated navigational exploration and analytical interaction screenshots (Figure 3 – 8).
 
