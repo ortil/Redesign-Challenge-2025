@@ -14,6 +14,7 @@ i.	The original plot (Figure 1) by Fear et al[1]
 ii.	The proposed visualization (Figure 2) and the associated navigational exploration and analytical interaction screenshots (Figure 3 – 8).
 
 iii.	The outputs: PEAK comparison 
+
 a.	The bar chart, Figure 9: shows Metabolite peak comparison. It compares the average peak per metabolite, between control and MT conditions across all subjects.
 b.	The bar Chart Figure 10: Shows the difference of the average peak between conditions (MT - control)
 c.	Table 1:  Summarizes Figures 9 & 10 using numeric data and includes percentage difference(change).
